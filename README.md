@@ -1,4 +1,5 @@
 <div align="center">
+  <h3>Few minor updates for personal preference</h3>
 <h1>JellyFlix</h1>
 <h3>Looks, Feels and Smells like Netflix</h3>
 <h3>Netflix Theme for Jellyfin</h3>
